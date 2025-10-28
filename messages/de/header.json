@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "features": "Funktionen",
+    "contents": "Inhalte",
+    "faq": "FAQ",
+    "pricing": "Preise"
+  },
+  "buttons": {
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "logout": "Abmelden"
+  },
+  "aria": {
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
+  }
+}

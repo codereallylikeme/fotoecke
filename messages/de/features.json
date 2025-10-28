@@ -1,0 +1,18 @@
+{
+  "title": "Mehr als nur eine Fotobox",
+  "subtitle": "Ein elegantes Erlebnis, basierend auf Qualität, Komfort und Stil.",
+  "cards": {
+    "gallery": {
+      "title": "Fotogalerie/Portfolio",
+      "description": "Erleben Sie die Magie selbst! Stöbern Sie in unserer kuratierten Galerie vergangener Veranstaltungen, von Hochzeiten bis hin zu Firmenfeiern. Jedes Foto ist hochwertig, professionell bearbeitet und zeigt den Spaß, den unsere Fotoboxen bringen."
+    },
+    "sharing": {
+      "title": "Sofortiges Fotosharing",
+      "description": "Lassen Sie Ihre Gäste ihre Erinnerungen sofort mitnehmen! Mit unserem Sofortsystem können Fotos per QR-Code, E-Mail oder SMS verschickt werden perfekt zum Teilen in sozialen Medien."
+    },
+    "printing": {
+      "title": "Individuelle Druck- & Rahmenoptionen",
+      "description": "Ihre Veranstaltung, Ihr Stil. Wählen Sie aus einer Vielzahl von Druckgrößen, Layouts und Rahmen, alles personalisiert mit Ihrem Veranstaltungslogo, Ihren Farben oder Ihrem Thema. Es ist mehr als nur ein Foto,es ist ein Erinnerungsstück."
+    }
+  }
+}

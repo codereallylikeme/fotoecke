@@ -1,0 +1,17 @@
+{
+  "title": "Buchen Sie Ihre Fotobox",
+  "subtitle": "Erzählen Sie uns von Ihrer Veranstaltung und reservieren Sie Ihre Fotobox noch heute.",
+  "form": {
+    "name": "Ihr Name",
+    "email": "Ihre E-Mail",
+    "date": "Veranstaltungsdatum",
+    "eventType": "Veranstaltungstyp",
+    "submit": "Jetzt reservieren"
+  },
+  "events": {
+    "wedding": "Hochzeit",
+    "birthday": "Geburtstag",
+    "corporate": "Firmenevent",
+    "other": "Sonstiges"
+  }
+}

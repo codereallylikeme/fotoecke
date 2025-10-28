@@ -1,0 +1,18 @@
+{
+  "title": "More than just a Photo Booth",
+  "subtitle": "An elegant experience built on quality, convenience, and style.",
+  "cards": {
+    "gallery": {
+      "title": "Photo Gallery/Portfolio",
+      "description": "See the magic for yourself! Browse our curated gallery of past events, from wedding to corporate parties. Every photo is high-quality, professionally edited, and showcases the fun our booths bring."
+    },
+    "sharing": {
+      "title": "Instant Photo sharing",
+      "description": "Let your guests take their memories home immediately! With our instant system, photos can be sent via QR code, email, or text—perfect for posting straight to social media."
+    },
+    "printing": {
+      "title": "Custom Print & Frame Options",
+      "description": "Your event, your style. Choose from a variety of print sizes, layouts, and frames, all personalized with your event logo, colors, or theme. It is more than a photo—it is a keepsake."
+    }
+  }
+}

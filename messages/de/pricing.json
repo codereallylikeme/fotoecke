@@ -1,0 +1,39 @@
+{
+  "title": "Preispakete",
+  "subtitle": "Wählen Sie ein Paket, das zu Ihrer Veranstaltung und Ihrem Budget passt.",
+  "plans": [
+    {
+      "name": "Basis",
+      "price": "€100",
+      "button": "Jetzt starten",
+      "features": ["12 Stunden Miete", "Digitale Lieferung", "150 Ausdrucke"]
+    },
+    {
+      "name": "Pro",
+      "price": "€150",
+      "button": "Standard",
+      "badge": "Beliebt",
+      "highlight": true,
+      "features": [
+        "12 Stunden Miete",
+        "Unbegrenzte Fotoausdrucke",
+        "Hintergrund inklusive"
+      ]
+    },
+    {
+      "name": "Premium",
+      "price": "€240",
+      "button": "Jetzt starten",
+      "features": [
+        "24 Stunden Miete",
+        "Unbegrenzte Fotoausdrucke",
+        "Hintergrund inklusive",
+        "Individuelles Branding",
+        "KI-gestützte Verbesserungen",
+        "Sofortiges Teilen & QR-Downloads",
+        "KI- & Augmented-Reality-Filter",
+        "Gästebuch & Nachrichtenwand"
+      ]
+    }
+  ]
+}

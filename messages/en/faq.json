@@ -1,0 +1,27 @@
+{
+  "title": "Frequently Asked Questions",
+  "subtitle": "Discover quick and comprehensive answers to common questions about our platform, services, and features.",
+  "items": [
+    {
+      "question": "How much space do I need for the photo booth?",
+      "answer": "We typically require a space of about 8x8 feet with access to a power outlet. Do not worry — our team will guide you on setup to ensure a perfect fit."
+    },
+    {
+      "question": "Can I customise the print with my event theme or logo?",
+      "answer": "Absolutely! We can design prints to match your colors, add your logo, or even include a special message or hashtag."
+    },
+    {
+      "question": "How long does it take to set up the photo booth?",
+      "answer": "Setup usually takes 30 to 45 minutes. We arrive early so everything is ready before your event begins."
+    },
+    {
+      "question": "Do guests get digital copies of their photos?",
+      "answer": "Yes! Guests can instantly receive their photos via QR code, text, or email, and you will also get a full digital gallery after the event."
+    },
+    {
+      "question": "Why is the Premium version worth the higher price?",
+      "answer": "Because it transforms your booth into a luxury experience—unlimited fun, unforgettable memories, and a professional finish your guests will love."
+    }
+  ],
+  "footer": "Can't find what you're looking for? Contact our customer support team"
+}

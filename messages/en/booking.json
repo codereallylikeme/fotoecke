@@ -1,0 +1,17 @@
+{
+  "title": "Book Your Photo Booth",
+  "subtitle": "Tell us about your event and reserve your photo booth today.",
+  "form": {
+    "name": "Your Name",
+    "email": "Your Email",
+    "date": "Event Date",
+    "eventType": "Event Type",
+    "submit": "Reserve Now"
+  },
+  "events": {
+    "wedding": "Wedding",
+    "birthday": "Birthday",
+    "corporate": "Corporate Event",
+    "other": "Other"
+  }
+}

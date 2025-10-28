@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "features": "Features",
+    "contents": "Contents",
+    "faq": "FAQ",
+    "pricing": "Pricing"
+  },
+  "buttons": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "aria": {
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  }
+}

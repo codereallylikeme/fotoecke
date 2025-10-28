@@ -1,0 +1,39 @@
+{
+  "title": "Pricing Plans",
+  "subtitle": "Choose a package that fits your event and budget.",
+  "plans": [
+    {
+      "name": "Basic",
+      "price": "€100",
+      "button": "Get Started",
+      "features": ["12 Hours Rental", "Digital Delivery", "150 Print out"]
+    },
+    {
+      "name": "Pro",
+      "price": "€150",
+      "button": "Standard",
+      "badge": "Popular",
+      "highlight": true,
+      "features": [
+        "12 Hours Rental",
+        "Unlimited Photo Print",
+        "Backdrop Included"
+      ]
+    },
+    {
+      "name": "Premium",
+      "price": "€240",
+      "button": "Get Started",
+      "features": [
+        "24 Hours Rental",
+        "Unlimited Photo Print",
+        "Backdrop Included",
+        "Custom Branding",
+        "AI-Powered Enhancements",
+        "Instant Social Sharing & QR Downloads",
+        "AI & Augmented Reality Filters",
+        "Guestbook & Message Board"
+      ]
+    }
+  ]
+}
