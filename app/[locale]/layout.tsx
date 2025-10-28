@@ -91,7 +91,7 @@ export async function generateMetadata({
     },
     openGraph: {
       title: siteDetails.metadata.title || 'Fotoecke - Photo Booth Rental',
-      description: description,
+      description: siteDetails.metadata.description || description,
       url: `${baseUrl}/${locale}`,
       siteName: 'Fotoecke',
       locale: locale === 'de' ? 'de_DE' : 'en_US',
