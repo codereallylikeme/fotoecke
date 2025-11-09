@@ -53,11 +53,11 @@ export async function getBookingById(id: string) {
 export async function getBookingsByDateRange(startDate: Date, endDate: Date) {
   await dbConnect()
   const docs = await Booking.find({
-    eventDate: {
+    date: {
       $gte: startDate,
       $lte: endDate,
     },
-  }).sort({ eventDate: 1 }).lean()
+  }).sort({ date: 1 }).lean()
   return docs.map((d) => serializeDoc(d))
 }
 

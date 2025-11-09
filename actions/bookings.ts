@@ -7,17 +7,16 @@ import { serializeDoc } from '@/lib/serialize'
 
 export async function submitBooking(formData: FormData) {
   try {
-    const booking = await createBooking({
+    const bookingData = {
       name: formData.get('name') as string,
       email: formData.get('email') as string,
       date: new Date(formData.get('date') as string),
       eventType: formData.get('eventType') as string,
-    })
-
+    }
     
+    const booking = await createBooking(bookingData)
 
     // Send confirmation email to customer
-    
     await sendBookingEmail(booking)
 
     // Optional: notify admin too
